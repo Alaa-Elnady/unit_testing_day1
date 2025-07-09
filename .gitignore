@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Optional: Other common ignores
+.DS_Store
+.env
+dist/
+*.log
